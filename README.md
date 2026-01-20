@@ -22,6 +22,15 @@ kimdoes2143@naver.com <br>
 kdhyun422@gmail.com
 
 -------------------------------------------
+
+**Objectives** <br>
+📌 전공과목 예습 및 컬러잇 프로젝트 진행, 관련된 강의를 찍을 수 있을 정도로 공부하기 (C)
+📌 배포된 개인프로젝트 3개 및 1개 이상의 프로젝트에서 실사용자 확보하기 (P)
+📌 백준 골드 이상 (A)
+📌 JVM / GC 성능튜닝
+📌 오픈소스 컨트리뷰트
+
+-------------------------------------------
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dh1224)](https://solved.ac/dh1224)<br>
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoes&show_icons=true&theme=merko)<br>
