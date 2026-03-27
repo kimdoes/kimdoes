@@ -16,14 +16,13 @@
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=OpenJDK&logoColor=#6DB33F")
 
 -------------------------------------------
-## Blogs
-디디디 개발블로그: https://dev-dx2d2y-log.tistory.com/ <br>
-컬러잇 개발블로그: https://color-it.tistory.com/ <br>
-
--------------------------------------------
 ## Contact
-kimdoes2143@naver.com <br>
+### emails <br>
+kimdoes2143@naver.com<br>
 kdhyun422@gmail.com
+
+### blog
+https://dev-dx2d2y-log.tistory.com/ <br>
 
 -------------------------------------------
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dh1224)](https://solved.ac/dh1224)<br>
